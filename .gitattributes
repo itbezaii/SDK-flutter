@@ -1,0 +1,9 @@
+# Ignorer les langages generes par Flutter dans les stats GitHub
+*.html linguist-vendored
+*.cmake linguist-vendored
+*.cpp linguist-vendored
+*.swift linguist-vendored
+*.c linguist-vendored
+
+# Marquer Dart comme langage principal
+*.dart linguist-detectable
